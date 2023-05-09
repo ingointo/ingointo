@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I’m a self-taught MERN stack developer who has dedicated six months of hard work to mastering my craft. Quality is my top priority and I always strive to deliver the best possible results. I’m proud to have earned a MERN stack development certification from Mashup Stack through self-study. My dedication to continuous learning and improvement is showcased by my self-taught and certified background in MERN stack development from Mashup Stack
+Hi there! I’m a self-taught MERN stack developer who has dedicated months of hard work to mastering my craft. Quality is my top priority and I always strive to deliver the best possible results. I’m proud to have earned a MERN stack development certification from Mashup Stack through self-study. My dedication to continuous learning and improvement is showcased by my self-taught and certified background in MERN stack development from Mashup Stack
 
 <img align="right" src="![image](https://user-images.githubusercontent.com/122027814/236288116-065afb30-3129-40be-81d3-db19569f015b.png)" width="512px"/>
 
