@@ -1,6 +1,17 @@
 # 💫 About Me:
-Hi there! I’m a self-taught MERN stack developer who has dedicated months of hard work to mastering my craft. Quality is my top priority and I always strive to deliver the best possible results. I’m proud to have earned a MERN stack development certification from Mashup Stack through self-study. My dedication to continuous learning and improvement is showcased by my self-taught and certified background in MERN stack development from Mashup Stack
 
+👋 Hi, I'm Vishnu Mohan MS, a passionate Software Engineer and React Native Developer specializing in building high-quality mobile applications for Android and iOS.
+
+🚀 Currently, I develop mobile applications at a startup, managing the end-to-end project development process, including setup, coding, testing, and deployment. My expertise lies in creating user-centric ERP solutions, task management systems, and various innovative applications using technologies like React Native, RESTful APIs, and state management tools.
+
+💡 I’m committed to writing clean, maintainable code and continuously improving my skills through collaboration and problem-solving.
+
+🌱 Always eager to learn new technologies and contribute to exciting projects.
+
+🔗 Feel free to explore my repositories to see my work!
+
+
+Feel free to customize it further if you'd like!
 <img align="right" src="![image](https://user-images.githubusercontent.com/122027814/236288116-065afb30-3129-40be-81d3-db19569f015b.png)" width="512px"/>
 
 
